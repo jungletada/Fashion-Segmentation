@@ -1,4 +1,4 @@
-# ** Semantic Context Aware Transformer for Street Fashion Image Segmentation**  
+# ** Semantic Context Aware Transformer for Street Fashion Image Segmentation **  
 **Author: Dingjie Peng $^*$**     
 **$*$ Waseda University**
 * * *
